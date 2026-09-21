@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these datasets or documentation in your research, planning, or policy work, please cite it as below."
+title: "Processed Geospatial Datasets for Marine Spatial Planning in Tanzania (Deliverable 3: Ecological Assessment and Human-Use Map)"
+abstract: "Harmonized, quality-controlled, and analysis-ready geospatial baseline datasets compiled for Marine Spatial Planning in the United Republic of Tanzania, covering maritime boundaries, ecological habitats, fisheries, and socioeconomic uses."
+version: 1.0.0
+date-released: 2026-06-30
+repository-code: "https://github.com/lugoga/msp_del3"
+license: CC-BY-4.0
+authors:
+  - family-names: "Semba"
+    given-names: "Masumbuko"
+    affiliation: "The Nature Conservancy"
+    email: "lugosemba@gmail.com"
+keywords:
+  - "marine spatial planning"
+  - "Tanzania"
+  - "blue economy"
+  - "geopackage"
+  - "coral reefs"
+  - "seagrass"
+  - "mangroves"
+  - "fisheries"
+  - "exclusive economic zone"
+  - "the nature conservancy"

@@ -4,6 +4,7 @@
 [![CRS: EPSG 4326 / 32737](https://img.shields.io/badge/CRS-EPSG%3A4326%20%7C%20EPSG%3A32737-green.svg)](https://epsg.io/4326)
 [![Project: MSP Tanzania](https://img.shields.io/badge/Project-MSP%20Tanzania%20(Deliverable%203)-teal.svg)](#)
 [![Organization: The Nature Conservancy](https://img.shields.io/badge/Organization-The%20Nature%20Conservancy%20(TNC)-007348.svg)](https://www.nature.org/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 ---
 

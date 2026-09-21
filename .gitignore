@@ -1,0 +1,45 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# GIS, QGIS & ArcGIS Lock / Temporary Files
+*.qgs~
+*.qgz~
+*.lock
+*.sr.lock
+*.gpkg-journal
+*.gpkg-wal
+*.gpkg-shm
+*.shp.ea.iso.xml
+
+# R Environment & Session Files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Temporary, Backup & Editor Files
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+*.swo
+.vscode/
+.idea/
